@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/sanjay/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/sanjay/MyWORK-SPACE/MobileApp/AndroidStudio-Worksapce/RonetTVmobileapp/app/build/intermediates/pre-dexed/release/support-annotations-21.0.3-e7955ceb9149b274bb74e5c850de0e0e8c4307cc.jar" />
+    </item>
+    <item
+        jar="/home/sanjay/MyWORK-SPACE/MobileApp/AndroidStudio-Worksapce/RonetTVmobileapp/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/sanjay/MyWORK-SPACE/MobileApp/AndroidStudio-Worksapce/RonetTVmobileapp/app/build/intermediates/pre-dexed/release/internal_impl-21.0.3-57b608c0752ad598216b8bf067286c440cde4039.jar" />
+    </item>
+    <item
+        jar="/home/sanjay/MyWORK-SPACE/MobileApp/AndroidStudio-Worksapce/RonetTVmobileapp/app/libs/PayPalAndroidSDK.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e5d822f650e1f75b4ce23610bdf4b37f8116a1d4">
+        <dex dex="/home/sanjay/MyWORK-SPACE/MobileApp/AndroidStudio-Worksapce/RonetTVmobileapp/app/build/intermediates/pre-dexed/release/PayPalAndroidSDK-d9a0825b67dfacaf447bab9aabe16157709e2ae3.jar" />
+    </item>
+    <item
+        jar="/home/sanjay/MyWORK-SPACE/MobileApp/AndroidStudio-Worksapce/RonetTVmobileapp/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/sanjay/MyWORK-SPACE/MobileApp/AndroidStudio-Worksapce/RonetTVmobileapp/app/build/intermediates/pre-dexed/release/classes-f2e2fb485ce3f1f85c23532483a117a83c1214ee.jar" />
+    </item>
+    <item
+        jar="/home/sanjay/MyWORK-SPACE/MobileApp/AndroidStudio-Worksapce/RonetTVmobileapp/app/libs/universal-image-loader-1.9.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d2a1c7db3817af8381daa80201bc549be3e884c5">
+        <dex dex="/home/sanjay/MyWORK-SPACE/MobileApp/AndroidStudio-Worksapce/RonetTVmobileapp/app/build/intermediates/pre-dexed/release/universal-image-loader-1.9.1-c0cea5bbfdfc04275d184080b4648010e5d3eacc.jar" />
+    </item>
+    <item
+        jar="/home/sanjay/MyWORK-SPACE/MobileApp/AndroidStudio-Worksapce/RonetTVmobileapp/app/libs/retrofit-1.4.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="23de973a4908bc6f5ac6524af3251a19ad81a7b1">
+        <dex dex="/home/sanjay/MyWORK-SPACE/MobileApp/AndroidStudio-Worksapce/RonetTVmobileapp/app/build/intermediates/pre-dexed/release/retrofit-1.4.1-ddd496b71311d6d766c5af636733af4a633567ce.jar" />
+    </item>
+    <item
+        jar="/home/sanjay/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/home/sanjay/MyWORK-SPACE/MobileApp/AndroidStudio-Worksapce/RonetTVmobileapp/app/build/intermediates/pre-dexed/release/gson-2.2.4-31a02a50d2b3f1d16e48a4a55a105fedc40586c0.jar" />
+    </item>
+    <item
+        jar="/home/sanjay/MyWORK-SPACE/MobileApp/AndroidStudio-Worksapce/RonetTVmobileapp/app/libs/acra-4.5.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44a5eb946e0d83eed4a0128d877ca1fd8168b83a">
+        <dex dex="/home/sanjay/MyWORK-SPACE/MobileApp/AndroidStudio-Worksapce/RonetTVmobileapp/app/build/intermediates/pre-dexed/release/acra-4.5.0-ef23ff8e644d23e8fb286a46da0096288cbeb082.jar" />
+    </item>
+    <item
+        jar="/home/sanjay/MyWORK-SPACE/MobileApp/AndroidStudio-Worksapce/RonetTVmobileapp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/sanjay/MyWORK-SPACE/MobileApp/AndroidStudio-Worksapce/RonetTVmobileapp/app/build/intermediates/pre-dexed/release/classes-894e397aefb54835e5bc07827ecd4850c9a2f308.jar" />
+    </item>
+
+</items>
